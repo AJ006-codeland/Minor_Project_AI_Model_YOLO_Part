@@ -13,7 +13,7 @@ import shutil
 # -----------------------------
 load_dotenv()  # loads variables from .env
 
-API_KEY = os.getenv("f4pCso2oY1jQ8D3h1oRQ")
+API_KEY = os.getenv("**********************")
 WORKSPACE_NAME = "aayushmas-workspace-k2yif"
 WORKFLOW_ID = "general-segmentation-api-3"
 CLASSES = "PARAMETER_VALUE"           # set to whatever your workflow expects
